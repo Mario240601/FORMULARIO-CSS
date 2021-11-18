@@ -1,0 +1,22 @@
+#fondo{
+	position: relative;
+	left:800px;
+	top: 300px;
+	background-color: #DAF7A6 ;
+	border: solid 2px black;
+	height:100PX;
+	width: 200PX;
+	padding:30PX 40PX;
+}
+
+input:focus{
+	background-color:yellow;
+}
+
+#boton{
+	position: relative;
+	left: 60px;
+	border:inset 2px black;
+	border-radius: 6px;
+
+}
